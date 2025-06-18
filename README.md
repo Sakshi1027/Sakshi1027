@@ -7,7 +7,7 @@ Check out my live portfolio:
 🔗 [my-portfolio.vercel.app](https://my-portfolio-pearl-ten-55.vercel.app/)
 
 ##  About Me
-I'm a passionate and driven second-year Computer Science student with a strong foundation in web development and a growing interest in Artificial Intelligence and Deep Learning. I enjoy creating user-centric applications and building meaningful projects that solve real-world problems. My curiosity constantly drives me to explore new technologies and develop impactful tech solutions.
+I'm a passionate and driven Computer Science student with a strong foundation in web development and a growing interest in Artificial Intelligence and Deep Learning. I enjoy creating user-centric applications and building meaningful projects that solve real-world problems. My curiosity constantly drives me to explore new technologies and develop impactful tech solutions.
 
 Alongside my academic and technical journey, I proudly serve as a National Cadet Corps (NCC) cadet, which has deeply instilled in me the values of discipline, leadership, resilience, and teamwork. Being part of NCC has shaped me into a well-rounded individual who not only strives for technical excellence but also believes in contributing to society through responsible action and service.
 
