@@ -17,7 +17,7 @@ Alongside my academic and technical journey, I proudly serve as a National Cadet
   
 
 ##  Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sakshi-kumar-66375a2ab/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/sakshi-kumar-66375a2ab/))]
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Sakshi1027)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](sakshias.cs23@rvce.edu.in)
 
