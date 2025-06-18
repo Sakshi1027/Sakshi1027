@@ -12,7 +12,7 @@ I'm a passionate and driven second-year Computer Science student with a strong f
 Alongside my academic and technical journey, I proudly serve as a National Cadet Corps (NCC) cadet, which has deeply instilled in me the values of discipline, leadership, resilience, and teamwork. Being part of NCC has shaped me into a well-rounded individual who not only strives for technical excellence but also believes in contributing to society through responsible action and service.
 
 ## 📌 Projects
--  [Real-Time Health Care App]([https://my-portfolio-135qufm5u-sakshi-ass-projects.vercel.app](https://real-time-health-care.vercel.app/))
+-  [Real-Time Health Care App]((https://real-time-health-care.vercel.app/))
 
   
 
