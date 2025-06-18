@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Sakshi A S
 
-<!--
-**Sakshi1027/Sakshi1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Passionate Developer | 🌱 NCC Cadet
 
-Here are some ideas to get you started:
+## 🚀 Portfolio
+Check out my live portfolio:  
+🔗 [my-portfolio.vercel.app](https://my-portfolio-pearl-ten-55.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🔭 I’m currently working on: Real-time Health Care App
+- 🌱 Learning: Flutter, GNN, Embedded C
+- 🧠 Interested in: AI, IoT, Security, and Full Stack Web
+- 🪖 NCC Cadet | Disciplined & Dedicated
+- 📫 Reach me at: sakshi.as@email.com
+
+## 📌 Projects
+- 🚑 [Real-Time Health Care App](https://my-portfolio-135qufm5u-sakshi-ass-projects.vercel.app)
+- 🤖 [AI Biohazard Detection System](#)
+- 🔐 [Password Manager App](#)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/sakshi-as)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:sakshi.as@email.com)
+
