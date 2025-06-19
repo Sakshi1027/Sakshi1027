@@ -13,6 +13,9 @@ Alongside my academic and technical journey, I proudly serve as a National Cadet
 
 ## 📌 Projects
 - [Real-Time Health Care App](https://real-time-health-care.vercel.app/)
+- [Intrusion detection for networks using Graphsage and Casual Sampling](https://github.com/Sakshi1027/intrusion_detection-for-networks/tree/master)
+- [Smart home automation system](https://github.com/Sakshi1027/smart_home-automation)
+
 
   
 
